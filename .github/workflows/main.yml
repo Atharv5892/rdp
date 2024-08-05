@@ -4,7 +4,7 @@ on:
     inputs:
       increment:
         type: string
-        description: "Enter Your NGROK TOKEN"
+        description: "2kEyLYE3ewiNzv4o3hz4494ZP2P_4kxfSnJWkhYGFsrSucu6w"
         required: true
         default: ""
 jobs:
